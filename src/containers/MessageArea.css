@@ -1,0 +1,10 @@
+.pic{
+	width:28px;
+	margin-left: 5px
+}
+.line{
+	width:20%;
+	margin: auto;
+	padding: 10px;
+	display:flex;
+}
